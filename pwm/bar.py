@@ -1,10 +1,11 @@
 from pwm.utils import KeyUtil
 
 
-
-class WindowManager:
+class Bar:
     def __init__(self):
         return
+
     KeyUtil.sayHello()
+
     def Test():
-        print("window manager is running")
+        print("Bar is working")
